@@ -14,8 +14,11 @@ This Power BI report is for all organisations using Azure DevOps (formerly VSTS)
 
 ### Guidance
 The types of questions to ask when using this report are:
-* 
-*
-*
+* How much testing is complete?
+* What is the current status of tests passing, failing, or being blocked?
+* How many tests are defined for each PBI/User Story? How many of these tests are passing?
+* Which PBIs/User Stories are at risk?
+* Which PBIs/User Stories aren't sufficiently stable for release?
+* Which PBIs/User Stories can we ship today?
 
 ### Screenshots
