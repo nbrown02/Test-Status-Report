@@ -22,3 +22,7 @@ The types of questions to ask when using this report are:
 * Which PBIs/User Stories can we ship today?
 
 ### Screenshots
+
+
+### References
+[Check out the Azure DevOps & Power BI OData guidance if interested in creating similar reports](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/sample-test-plans-progress-status?view=azure-devops&tabs=powerbi)
