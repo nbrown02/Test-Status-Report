@@ -8,7 +8,7 @@ This Power BI report is for all organisations using Azure DevOps (formerly VSTS)
 
 ### Connectivity
 * Open the .pbit file
-* Add your Organization and Project Name - Example format https://analytics.dev.azure.com/{OrganizationName}/{ProjectName}/_odata/v3.0-preview 
+* Add your Organization and Project Name - this will be in your Azure DevOps URL https://dev.azure.com/{OrganizationName}/{ProjectName}/ 
 * Hit load (note: you may get prompted for a login here, choose organisational account and enter your Azure DevOps email)
 * Voila - your report is created!
 
