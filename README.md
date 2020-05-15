@@ -31,7 +31,7 @@ The types of questions to ask when using this report are:
 ![alt text](https://raw.githubusercontent.com/nbrown02/Test-Status-Report/master/Screenshots/Picture4.png)
 
 ### FAQs
-Why do I get a blank table on the traceability page? 
+**Why do I get a blank table on the traceability page?** 
 This is down to how Microsoft have built Azure DevOps, specifically with regards to test cases. Any test cases that have been manually linked to PBI’s / User Stories will not pull through in this report. In order to get the benefits of this report, you need to ensure you add test cases via the Kanban board. If you really want historical data, you can add test cases to old items, then the other test cases will pull through, so you can get this to work even if it does not initially populate - just needs some data quality efforts!  
 
 ### References
