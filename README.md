@@ -22,7 +22,7 @@ The types of questions to ask when using this report are:
 * Voila - your report is created!
 
 ### Screenshots
-![alt text](hhttps://raw.githubusercontent.com/nbrown02/Test-Status-Report/master/Screenshots/Picture1.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/Test-Status-Report/master/Screenshots/Picture1.png)
 
 ![alt text](https://raw.githubusercontent.com/nbrown02/Test-Status-Report/master/Screenshots/Picture2.png)
 
