@@ -1,4 +1,4 @@
-# Test Report for Azure DevOps
+# Test Status Report
 This Power BI report is for all organisations using Azure DevOps (formerly VSTS), who want to get better insights into Test Cases and their status, in particular when looking at their traceability to Product Backlog Items (PBIs) and User Stories.
 
 ### Prerequisites
