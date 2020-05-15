@@ -1,5 +1,14 @@
 # Test Status Report
-This Power BI report is for all organisations using Azure DevOps (formerly VSTS), who want to get better insights into Test Cases and their status, in particular when looking at their traceability to Product Backlog Items (PBIs) and User Stories.
+Test Status Report is a Power BI template where you can enter your Azure DevOps details to generate a report that provide better insights into Test Cases and their status, in particular when looking at their traceability to Product Backlog Items (PBIs) and User Stories.
+
+The types of questions to ask when using this report are:
+* How much testing is complete?
+* What is the current status of tests passing, failing, or being blocked?
+* How many tests are defined for each PBI/User Story? 
+* How many of these tests are passing?
+* Which PBIs/User Stories are at risk?
+* Which PBIs/User Stories aren't sufficiently stable for release?
+* Which PBIs/User Stories can we ship today?
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
@@ -11,15 +20,6 @@ This Power BI report is for all organisations using Azure DevOps (formerly VSTS)
 * Add your Organization and Project Name - this will be in your Azure DevOps URL https://dev.azure.com/{OrganizationName}/{ProjectName}/ 
 * Hit load (note: you may get prompted for a login here, choose organisational account and enter your Azure DevOps email)
 * Voila - your report is created!
-
-### Guidance
-The types of questions to ask when using this report are:
-* How much testing is complete?
-* What is the current status of tests passing, failing, or being blocked?
-* How many tests are defined for each PBI/User Story? How many of these tests are passing?
-* Which PBIs/User Stories are at risk?
-* Which PBIs/User Stories aren't sufficiently stable for release?
-* Which PBIs/User Stories can we ship today?
 
 ### Screenshots
 
