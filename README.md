@@ -22,13 +22,7 @@ The types of questions to ask when using this report are:
 * Voila - your report is created!
 
 ### Screenshots
-![alt text](https://raw.githubusercontent.com/nbrown02/Test-Status-Report/master/Screenshots/Picture1.png)
-
-![alt text](https://raw.githubusercontent.com/nbrown02/Test-Status-Report/master/Screenshots/Picture2.png)
-
-![alt text](https://raw.githubusercontent.com/nbrown02/Test-Status-Report/master/Screenshots/Picture3.png)
-
-![alt text](https://raw.githubusercontent.com/nbrown02/Test-Status-Report/master/Screenshots/Picture4.png)
+![alt text](https://raw.githubusercontent.com/nbrown02/Test-Status-Report/main/Screenshots/Screenshot.png)
 
 ### FAQs
 **Why do I get a blank table on the traceability page?** 
