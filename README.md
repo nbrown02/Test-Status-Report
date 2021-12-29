@@ -1,5 +1,5 @@
 # Test Status Report
-Test Status Report is a Power BI template where you can enter your Azure DevOps details to generate a report that provide better insights into Test Cases and their status, in particular when looking at their traceability to Product Backlog Items (PBIs) and User Stories.
+Test Status Report is a Power BI template where you can enter your Azure DevOps, Azure DevOps Server and/or TFS details to generate a report that provide better insights into Test Cases and their status, in particular when looking at their traceability to Product Backlog Items (PBIs) and User Stories.
 
 The types of questions to ask when using this report are:
 * How much testing is complete?
