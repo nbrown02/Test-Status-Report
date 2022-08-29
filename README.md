@@ -12,7 +12,7 @@ The types of questions to ask when using this report are:
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
-* Download the .pbit file
+* [Download the .pbit template file](https://github.com/nbrown02/Test-Status-Report/raw/main/Test%20Status%20Report.pbit)
 * Then you're good to get started!
 
 ### Connectivity
